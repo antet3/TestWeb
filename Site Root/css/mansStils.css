@@ -3,11 +3,15 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family:monospace;
 }
-ul{
-  font-size:x-large;
+h1 {
+  color:rgb(70, 70, 224);
 }
 .head-li{
-  
+  font-size:x-large;
+}
+
+table, th, td {
+  border: 1px solid black;
 }
